@@ -5,7 +5,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "node index.js"
+    "dev": "node index.js",
+    "deploy": "npx gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
